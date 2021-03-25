@@ -1,0 +1,67 @@
+body{
+	background: #f5f5f5;
+	width: 700px;
+	margin: 0 auto;
+}
+.img-fluid{
+	align-content: center;
+}
+nav {
+  margin: 0 auto;
+  width: 700px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+#fondo{
+	background: url("../img/fondo1.jpg");
+	margin: 0 auto;
+	width: 699px;
+	height: 947px;
+	position: relative;
+}
+
+
+#video{
+	position: relative;
+	margin: 0 auto;
+	position: relative;
+	width: 700px;
+	height: 400px;
+	/*border: 1px solid white;*/
+}
+
+.vid{
+	width: 700px;
+	height: 400px;
+	position: relative;
+	margin: 0 auto;
+}
+.caro{
+	width: 700px;
+	height: 700px;
+	position: relative;
+	margin: 0 auto;
+}
+
+#contacto{
+	width: 700px;
+	height: 420px;
+	position: relative;
+	margin: 0 auto;
+	background:  url("../img/fondo4.jpg");
+
+}
+#tarj{
+	width: 700px;
+	position: relative;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: center;
+}
+.footer{
+	position: relative;
+	align-items: center;
+	justify-content: center;
+}
